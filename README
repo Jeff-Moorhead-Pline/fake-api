@@ -1,0 +1,8 @@
+This is a simple API implementation that is meant to provide an simple
+sandbox for learning about tools that call REST APIs. For example, if
+you wanted to learn the fetch API in JavaScript, you could write an
+application that calls this API. By keeping the API light and the
+responses simple, learning the libraries and frameworks themselves
+becomes much easier because you don't have to worry about parsing
+through complicated responses from more robust production-grade
+APIs.
